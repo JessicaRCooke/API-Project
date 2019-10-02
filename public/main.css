@@ -1,0 +1,36 @@
+body {
+  background-image: url('assets/APIBackground.jpg');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Righteous', cursive;
+
+}  
+.theDude {
+    width: 200px;
+    height: 200px;
+    border: 3px solid grey;
+}
+.theDudeOne {
+    position: absolute;
+    left: 80px;
+    top: 20px;
+    
+
+}
+.theDudeTwo {
+    position: absolute;
+    right: 80px;
+    top: 20px;
+}
+
+img {
+    border: greenyellow 3px solid;
+    border-radius: 3px;
+    display: inline-block;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+}
+
